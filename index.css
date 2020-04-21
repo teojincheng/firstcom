@@ -112,3 +112,13 @@ ul.timeline > li:before {
   padding-left: 20px;
   flex-grow: 0;
 }
+
+.stage-container {
+  margin: 0 auto;
+}
+
+.stage-one,
+.stage-two,
+.stage-three {
+  float: left;
+}
