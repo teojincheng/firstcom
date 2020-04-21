@@ -71,3 +71,15 @@ ul.timeline > li:before {
 #meet-the-cast {
   background-image: url("images/meet-the cast bg.png");
 }
+
+.partnerships-logo {
+  width: 15%;
+}
+
+#dont-miss-the-opportunity {
+  background-color: #5a1f5f;
+}
+
+#get-in-touch {
+  background-color: #43475f;
+}
