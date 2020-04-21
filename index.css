@@ -93,3 +93,22 @@ ul.timeline > li:before {
   background-color: #5a1f5f;
   color: white;
 }
+
+.purple-word {
+  color: #5a1f5f;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.ul-container {
+  display: flex;
+  justify-content: center;
+}
+
+.sales-target-card {
+  padding-right: 0px;
+  padding-left: 20px;
+  flex-grow: 0;
+}
