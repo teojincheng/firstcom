@@ -24,3 +24,7 @@
 #token-generation-event {
   background-image: url("images/token-generation bg.png");
 }
+
+.right-side {
+  float: right;
+}
