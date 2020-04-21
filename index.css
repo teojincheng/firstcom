@@ -20,3 +20,7 @@
   font-size: 55px;
   color: black;
 }
+
+#token-generation-event {
+  background-image: url("images/token-generation bg.png");
+}
