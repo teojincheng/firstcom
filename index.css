@@ -83,3 +83,13 @@ ul.timeline > li:before {
 #get-in-touch {
   background-color: #43475f;
 }
+
+.green-button {
+  background-color: #9bc64f;
+  color: #5a1f5f;
+}
+
+.purple-button {
+  background-color: #5a1f5f;
+  color: white;
+}
