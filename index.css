@@ -28,3 +28,7 @@
 .right-side {
   float: right;
 }
+
+.token-generation {
+  width: 50%;
+}
