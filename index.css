@@ -140,3 +140,19 @@ ul.timeline > li:before {
 #first-timing {
   margin-left: 400px;
 }
+
+#timings {
+  position: relative;
+  top: 30px;
+}
+#jumbotron-buttons {
+  position: relative;
+  top: 50px;
+}
+
+.card-container {
+  display: table;
+}
+.press-release-card {
+  display: table-cell;
+}
