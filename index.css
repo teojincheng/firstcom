@@ -132,3 +132,11 @@ ul.timeline > li:before {
 #use-of-proceeds {
   margin-left: 250px;
 }
+
+.navbar-nav li {
+  margin-left: 20px;
+}
+
+#first-timing {
+  margin-left: 400px;
+}
