@@ -171,3 +171,52 @@ ul.timeline > li:before {
   position: relative;
   top: 70px;
 }
+
+.register-benefits-section-top {
+  position: relative;
+  top: 100px;
+}
+
+.token-generation-top {
+  position: relative;
+  top: 200px;
+}
+
+#token-generation-list {
+  position: relative;
+  top: 230px;
+}
+
+#sales-stages {
+  position: relative;
+  top: 250px;
+}
+
+#get-tokens {
+  position: relative;
+  top: 270px;
+}
+
+#two-charts {
+  position: relative;
+  top: 290px;
+}
+
+#gen-bottom-button {
+  position: relative;
+  top: 310px;
+}
+
+#spacing-generation-implement {
+  height: 600px;
+}
+
+#token-gen-h3 {
+  position: relative;
+  top: 220px;
+}
+
+.token-gen-bottom {
+  position: relative;
+  top: 310px;
+}
