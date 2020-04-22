@@ -166,3 +166,8 @@ ul.timeline > li:before {
   position: relative;
   top: 40px;
 }
+
+.protocol-updates-section-top {
+  position: relative;
+  top: 70px;
+}
