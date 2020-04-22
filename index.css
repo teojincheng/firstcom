@@ -117,8 +117,18 @@ ul.timeline > li:before {
   margin: 0 auto;
 }
 
+.chart-container {
+  margin-left: 150px;
+}
+
 .stage-one,
 .stage-two,
-.stage-three {
+.stage-three,
+.chart-one,
+.chart-two {
   float: left;
+}
+
+#use-of-proceeds {
+  margin-left: 250px;
 }
