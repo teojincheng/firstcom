@@ -156,3 +156,13 @@ ul.timeline > li:before {
 .press-release-card {
   display: table-cell;
 }
+
+.spacing-top {
+  position: relative;
+  top: 30px;
+}
+
+.spacing-top-after {
+  position: relative;
+  top: 40px;
+}
